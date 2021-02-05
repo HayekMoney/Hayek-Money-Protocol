@@ -18,3 +18,5 @@ All smart contracts have been verified on etherscan
 * DAIHCSLPTokenSharePool: 0xb6B6835015f04fAb1E55b143395F07082bD2d488
 
 * Timelock: 0xbfd1d8cd54258afF8E5Ee019f6201e15f1e26cb3
+
+* NFT Value Pool: 0x366441d5B05Eab2bDfDD8fAb075eC1b321399a3a
